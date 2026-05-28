@@ -1,2 +1,7 @@
-# demo-constructora-r-c-s-r-l
-Demo web para CONSTRUCTORA.R.C.S.R.L — diseñada por eterlab.
+# CONSTRUCTORA.R.C.S.R.L
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
